@@ -1,2 +1,0 @@
-# super-guacamole
-Brunch club
